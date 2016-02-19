@@ -1,0 +1,45 @@
+.ugrid{
+	
+	width: 10px;
+	height: 10px;
+	background: black;
+	display: inline-block;
+	padding: 2px;
+	//margin: 1px;
+	outline: 1px solid white;
+
+	float:left;
+	overflow: hidden;
+}
+.grid{
+	width: auto;
+	height: 450px;
+	margin: 10px auto;
+}
+#wrapper{
+	margin:0 auto;
+	width: 1000px;
+	height: 1000px;
+}
+.buton{
+	margin:0 auto;
+}
+.row{
+	margin: 5 auto;
+	height: 15px;
+	//float: left;
+}
+
+.newgrid{
+	background-color: green; 
+}
+
+.ugrid2{
+	width: 10px;
+	height: 10px;
+	background-color: green;
+	display: inline-block;
+	padding: 2px;
+	outline: 1px solid white;
+	overflow: hidden;
+}
